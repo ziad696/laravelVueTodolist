@@ -1,6 +1,6 @@
 # Todolist (Laravel + Vue.Js) 
 
-A to do list app using Laravel as an API backend and Vue.Js as frontend framework. This project show my skill about CRUD (Create, Read, Update, Delete) and how I build Restfull API.
+A to do list app using Laravel as an API backend and Vue.Js as frontend framework. This project show my skill about CRUD (Create, Read, Update, Delete) and how I build Restful API.
 
 ![](header.png)
 
